@@ -1,5 +1,5 @@
 Title: HCS-Hieroconsensus: Hierarchical Validation Standard
-Author: greyson22218@gmail.com
+Author: greyson22218-art.
 Status: Draft
 Type: Standards Track
 Created: 2026-04-14
